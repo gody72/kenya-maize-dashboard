@@ -8,7 +8,5 @@ An interactive R Shiny dashboard for visualizing maize production, yield trends,
 ✅ Interactive heatmaps & scatter plots  
 ✅ Top and bottom 5 producers visualization  
 
-## How to Run
-1. Clone this repo:
-   ```bash
-   git clone https://gody-wambete.shinyapps.io/kenya-maize-dashboard/
+## Live Demo
+🔗 [Click Here to View the Dashboard](https://yourname.shinyapps.io/kenya-maize-dashboard/)
