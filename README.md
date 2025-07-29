@@ -9,4 +9,4 @@ An interactive R Shiny dashboard for visualizing maize production, yield trends,
 ✅ Top and bottom 5 producers visualization  
 
 ## Live Demo
-🔗 [Click Here to View the Dashboard](https://yourname.shinyapps.io/kenya-maize-dashboard/)
+🔗 [Click Here to View the Dashboard](https://gody-wambete.shinyapps.io/kenya-maize-dashboard/)
