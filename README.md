@@ -1,4 +1,4 @@
-# Kenya Maize Production Dashboard (2012–2023) 🌽📊
+# Kenya Maize Production Analytics (2012–2023) 🌽📊
 
 An interactive R Shiny dashboard for visualizing maize production, yield trends, and county-level performance in Kenya from 2012 to 2023.
 
